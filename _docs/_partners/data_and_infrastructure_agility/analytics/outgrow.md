@@ -119,4 +119,4 @@ For further assistance, refer to the [Outgrow Documentation](https://support.out
 
 ---
 
-This setup allows you to seamlessly transfer user data from Outgrow to Braze, enhancing your ability to personalize and target campaigns based on user engagement with interactive content.
+This setup allows you to seamlessly transfer user data from Outgrow to Braze, enhancing your ability to personalize and target campaigns based on user engagement with interactive content. 
